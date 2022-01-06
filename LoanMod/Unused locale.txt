@@ -1,0 +1,2 @@
+﻿
+  "msg.confirmborrow": "Borrowing {{Amount}}g for {{Days}} days will charged at {{Interest}}%. Would you like to proceed?"
